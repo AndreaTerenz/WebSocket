@@ -13,7 +13,10 @@
    version="1.1"
    id="svg845"
    sodipodi:docname="WebSocket.svg"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\andrea\Desktop\Godot\WebSocket\icon.png"
+   inkscape:export-xdpi="1536"
+   inkscape:export-ydpi="1536">
   <metadata
      id="metadata851">
     <rdf:RDF>
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +45,13 @@
      id="namedview847"
      showgrid="false"
      inkscape:zoom="24.527766"
-     inkscape:cx="11.279928"
+     inkscape:cx="4.3286223"
      inkscape:cy="10.717269"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg845" />
+     inkscape:current-layer="svg845"
+     inkscape:document-rotation="0" />
   <path
      d="m 14,11 h 1 v 1 h -1 z"
      id="path865"
